@@ -3,16 +3,21 @@ permalink: /about/
 title: "About"
 ---
 ## Profile  
-プログラミングと甘いものとゲームが好き  
+プログラミングと甘いものとゲームが好きです。  
+あとたまにコスプレとか...  
+よく使う言語はRubyとNode.js  
+宗教はVim  
+詳しいことは下にあります  
 
-## likes  
+## likes
+
 ### Programming  
 - [Ruby](https://www.ruby-lang.org) 
 - [Ruby on Rails](http://rubyonrails.org/) 
 - [Node.js](https://nodejs.org)  
 - [Vim](https://vim.sourceforge.io/)  
 - [PostgreSQL](https://www.postgresql.org/)  
-- [Zsh](http://www.zsh.org/)  
+- [Zsh](http://www.zsh.org/) 
 
 ###  Game  
 - [スプラトゥーン2](https://www.nintendo.co.jp/switch/aab6a/index.html)  

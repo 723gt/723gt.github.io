@@ -1,5 +1,5 @@
 # KdquestServer
-作成日:2016年6月  
+作成日:2016年10月  
 使用言語: Ruby  
 動作環境: Linux 
 

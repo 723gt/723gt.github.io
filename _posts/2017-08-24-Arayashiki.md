@@ -3,8 +3,8 @@ title:  阿頼耶識システム(サーバ)
 ---
 
 # 阿頼耶識システム(サーバ)
-作成日:2017年 7〜8月
-使用言語:  Ruby(Ruby on Rails)
+作成日:2017年 7〜8月  
+使用言語:  Ruby(Ruby on Rails)  
 動作環境:  Mac,Linux
 
 ## summary  

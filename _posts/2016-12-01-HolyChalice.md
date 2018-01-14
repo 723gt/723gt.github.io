@@ -3,8 +3,8 @@
 ---
 
 # HolyChalice  
-作成日:2016年 12
-使用言語:  Ruby
+作成日:2016年 12月  
+使用言語:  Ruby  
 動作環境:  Ubuntu
 
 ## summary  

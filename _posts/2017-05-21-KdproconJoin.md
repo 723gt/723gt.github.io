@@ -3,8 +3,8 @@ title:  "出欠管理アプリ"
 ---
 
 # 出欠管理アプリ  
-作成日:2017年 5月
-使用言語:  Ruby(Ruby on Rails)
+作成日:2017年 5月  
+使用言語:  Ruby(Ruby on Rails)  
 動作環境:  Mac,Linux
 
 ## summary 

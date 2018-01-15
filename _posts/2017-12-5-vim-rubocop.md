@@ -2,7 +2,6 @@
 title:  "vim-rubocop"
 ---
 
-# vim-rubocop  
 作成日:2017年 12月  
 使用言語:  VimScript  
 動作環境:  vim

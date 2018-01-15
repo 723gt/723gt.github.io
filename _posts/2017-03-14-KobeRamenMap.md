@@ -2,7 +2,6 @@
 title:  "神戸ラーメンマップ"
 ---
 
-# 神戸ラーメンマップ
 作成日:2017年 3月  
 使用言語:  Ruby(Ruby on Rails)  
 動作環境:  Mac,Linux

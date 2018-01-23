@@ -9,6 +9,7 @@ title:  "神戸ラーメンマップ"
 ## summary  
 暇つぶしで作った  
 神戸の美味しいラーメン屋さんを紹介し合うwebアプリ  
-Herokuで公開してた(今はしてない)
+Herokuで公開してた
 
-URL: [GitHub](https://github.com/723gt/KobeRamenMap/commits/master)
+URL: [GitHub](https://github.com/723gt/KobeRamenMap/commits/master)  
+[神戸ラーメンマップ](https://koberamenmap.herokuapp.com/)  

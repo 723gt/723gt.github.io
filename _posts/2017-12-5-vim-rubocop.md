@@ -1,5 +1,8 @@
 ---
 title:  "vim-rubocop"
+tags:
+  - vim
+  - vimScript
 ---
 
 作成日:2017年 12月  

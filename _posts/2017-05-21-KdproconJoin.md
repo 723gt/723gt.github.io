@@ -1,5 +1,8 @@
 ---
 title:  "出欠管理アプリ"
+tags:
+  - Ruby
+  - Ruby on Rails
 ---
  
 作成日:2017年 5月  

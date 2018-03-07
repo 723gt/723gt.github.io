@@ -1,5 +1,7 @@
 ---
   title: "HolyChalice"
+  tags:
+  - Ruby
 ---
  
 作成日:2016年 12月  

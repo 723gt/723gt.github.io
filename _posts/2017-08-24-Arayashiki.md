@@ -1,5 +1,8 @@
 ---
 title:  阿頼耶識システム(サーバ)
+tags:
+  - Ruby
+  - Ruby on Rails
 ---
 
 作成日:2017年 7〜8月  

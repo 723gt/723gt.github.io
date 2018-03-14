@@ -2,6 +2,7 @@
   title: "KdquestServer"
   tags: 
     - Ruby
+  categories: proglam
 ---
 
 作成日:2016年10月  

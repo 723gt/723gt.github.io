@@ -2,6 +2,7 @@
 title:  "出欠管理iOSクライアント"
 tags:
   - Swift
+categories: proglam
 ---
 
 作成日:2017年 12月  

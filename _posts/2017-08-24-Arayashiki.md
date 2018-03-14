@@ -3,6 +3,7 @@ title:  阿頼耶識システム(サーバ)
 tags:
   - Ruby
   - Ruby on Rails
+categories: proglam
 ---
 
 作成日:2017年 7〜8月  

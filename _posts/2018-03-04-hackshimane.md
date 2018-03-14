@@ -1,7 +1,7 @@
 ---
 title: "Hack Shimane"
 tags: ハッカソン 
-categories: イベント
+categories: event
 ---
 
 実施日:2018年 3月 4日

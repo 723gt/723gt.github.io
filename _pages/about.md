@@ -24,6 +24,7 @@ title: "About"
 - [ポケットモンスター](http://www.pokemon.co.jp/)  
 - [Fate/Grand Orde](http://www.fate-go.jp/)
 - [destiny,destiny2](https://www.destinythegame.com/ja/home)
+- [NieR:Automata](http://www.jp.square-enix.com/nierautomata/)
 
 ### Animation
 - [攻殻機動隊](https://v-storage.bandaivisual.co.jp/sp-site/ghost-in-the-shell-special/)  
